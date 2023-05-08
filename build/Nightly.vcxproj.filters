@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\AI-Center\Computing\C-Tutorial\ThreadLab01\build\CMakeFiles\da91e6795abb7f1107fb3ee69eecc2cb\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\AI-Center\Computing\C-Tutorial\ThreadLab01\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\AI-Center\Computing\C-Tutorial\ThreadLab01\build\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AB1CB46C-C9DB-33A5-808C-6FB0280C632B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

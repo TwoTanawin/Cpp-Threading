@@ -1,0 +1,9 @@
+D:/AI-Center/Computing/C-Tutorial/ThreadLab01/build/CMakeFiles/Experimental.dir
+D:/AI-Center/Computing/C-Tutorial/ThreadLab01/build/CMakeFiles/Nightly.dir
+D:/AI-Center/Computing/C-Tutorial/ThreadLab01/build/CMakeFiles/Continuous.dir
+D:/AI-Center/Computing/C-Tutorial/ThreadLab01/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/AI-Center/Computing/C-Tutorial/ThreadLab01/build/CMakeFiles/thread_1.dir
+D:/AI-Center/Computing/C-Tutorial/ThreadLab01/build/CMakeFiles/PACKAGE.dir
+D:/AI-Center/Computing/C-Tutorial/ThreadLab01/build/CMakeFiles/RUN_TESTS.dir
+D:/AI-Center/Computing/C-Tutorial/ThreadLab01/build/CMakeFiles/ALL_BUILD.dir
+D:/AI-Center/Computing/C-Tutorial/ThreadLab01/build/CMakeFiles/ZERO_CHECK.dir
